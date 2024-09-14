@@ -1,0 +1,7 @@
+C:\Users\Rom\RiderProjects\PinvokeTutorial\ConsoleApplication\bin\x64\Debug\ConsoleApplication.exe
+C:\Users\Rom\RiderProjects\PinvokeTutorial\ConsoleApplication\bin\x64\Debug\ConsoleApplication.pdb
+C:\Users\Rom\RiderProjects\PinvokeTutorial\ConsoleApplication\obj\x64\Debug\ConsoleApplication.csproj.AssemblyReference.cache
+C:\Users\Rom\RiderProjects\PinvokeTutorial\ConsoleApplication\obj\x64\Debug\ConsoleApplication.csproj.SuggestedBindingRedirects.cache
+C:\Users\Rom\RiderProjects\PinvokeTutorial\ConsoleApplication\obj\x64\Debug\ConsoleApplication.csproj.CoreCompileInputs.cache
+C:\Users\Rom\RiderProjects\PinvokeTutorial\ConsoleApplication\obj\x64\Debug\ConsoleApplication.exe
+C:\Users\Rom\RiderProjects\PinvokeTutorial\ConsoleApplication\obj\x64\Debug\ConsoleApplication.pdb
